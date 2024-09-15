@@ -15,7 +15,7 @@ let  msg3:boolean=true
 
 //引用类型
 
-//{} or Object   [] or Array   function class
+//{} or Object   [] or Array   function   interface  class
 
 
 let msg4:{}={}
